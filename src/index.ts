@@ -2,8 +2,8 @@ import axios from 'axios';
 import { MongoClient } from 'mongodb';
 import { translate } from '@vitalets/google-translate-api';
 
-const apiUrl = 'https://exercisedb.p.rapidapi.com/exercises';
-const apiKey = '1676c855b0msh3cafd9565eb9b03p19bbb5jsnbdc2f5c8909a';
+const apiUrl = 'adicone sua url da api';
+const apiKey = 'adicione sua chave da api';
 
 const mongoUrl = 'mongodb://localhost:27017';
 const dbName = 'exercisedb';
